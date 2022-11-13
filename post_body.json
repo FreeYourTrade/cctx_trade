@@ -1,0 +1,8 @@
+{
+    "apiSec":"***",
+    "symbol":"ADA/USDT",
+    "amount":"2",
+    "type":"limit",
+    "side":"sell",
+    "price":"2"
+}
